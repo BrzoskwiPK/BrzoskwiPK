@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/BrzoskwiPK">
-  <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=BrzoskwiPK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrzoskwiPK&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="auto" width="48%" src="https://github-readme-stats.vercel.app/api?username=BrzoskwiPK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="auto" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrzoskwiPK&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div align="center"><br>
