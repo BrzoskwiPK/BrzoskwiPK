@@ -1,4 +1,4 @@
-## Hi! Gabriel here. Together, we make travel happen.
+## Hi! Gabriel here.
 
 <div>
   <a href="https://www.instagram.com/brzoskwiii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -7,8 +7,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/BrzoskwiPK">
-  <img height="auto" width="48%" src="https://github-readme-stats.vercel.app/api?username=BrzoskwiPK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="auto" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrzoskwiPK&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
