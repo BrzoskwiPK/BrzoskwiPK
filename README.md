@@ -6,6 +6,7 @@
   <a href = "https://www.linkedin.com/in/gabriel-brzoskwinia-027a35212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
 <div align="center">
   <img height="auto" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrzoskwiPK&layout=compact&langs_count=4&theme=tokyonight"/>
 </div>
